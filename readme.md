@@ -183,35 +183,30 @@ DBHospitalAtende/
 │   │   └── 04_seed_data.sql
 │   │
 │   ├── v2/
-│   │   ├── 01_constraints.sql
-│   │   ├── 02_indexes.sql
-│   │   └── 03_query_tests.sql
-│   │
-│   ├── v3/
 │   │   ├── 01_logins_users.sql
 │   │   ├── 02_roles_permissions.sql
 │   │   └── 03_permission_tests.sql
 │   │
-│   ├── v4/
+│   ├── v3/
 │   │   ├── 01_full_backup.sql
 │   │   ├── 02_diff_backup.sql
 │   │   ├── 03_log_backup.sql
 │   │   └── 04_restore_tests.sql
 │   │
-│   ├── v5/
+│   ├── v4/
 │   │   └── 01_tde.sql
 │   │
-│   ├── v6/
+│   ├── v5/
 │   │   └── 01_always_encrypted.sql
 │   │
-│   ├── v7/
+│   ├── v6/
 │   │   └── 01_dynamic_data_masking.sql
 │   │
-│   ├── v8/
+│   ├── v7/
 │   │   ├── 01_audit.sql
 │   │   └── 02_audit_tests.sql
 │   │
-│   └── v9/
+│   └── v8/
 │       └── 01_always_on_notes.sql
 │
 └── images/
