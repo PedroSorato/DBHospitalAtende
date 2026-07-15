@@ -32,11 +32,11 @@ Para gerenciar o espaço em disco devido à alta frequência dos logs, foi confi
 ### 📸 Evidências de Implementação
 
 <p align="center">
-  <img src="../../images/Plano_de_manutenção_v2.png" alt="Visão Geral do Plano de Manutenção" width="80%">
+  <img src="../../imagens/Plano_de_manutenção_v2.png" alt="Visão Geral do Plano de Manutenção" width="80%">
 </p>
 *Legenda: Fluxo lógico e encadeamento das tarefas de manutenção no SSMS.*
 
 <p align="center">
-  <img src="../../images/Jobs_SQL_Agent.png" alt="Jobs criados no SQL Server Agent" width="50%">
+  <img src="../../imagens/Jobs_SQL_Agent.png" alt="Jobs criados no SQL Server Agent" width="50%">
 </p>
 *Legenda: Automação dos subplanos refletida diretamente nos Jobs do SQL Server Agent.*
